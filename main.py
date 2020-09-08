@@ -6,11 +6,10 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Mi nombre es {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print(f'Mi no. de control es 17012336')
+    print(f'Mi nombre e {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Geovanni Eduardo López Macias')
+    print_hi('Geovanni Macias')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
